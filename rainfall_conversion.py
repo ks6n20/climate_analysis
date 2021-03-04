@@ -6,4 +6,5 @@ def inches_to_mm(inches):
 	return mm
 
 
-# add cm function
+# TODO: Add function inches_to_m
+# TODO: Add function inches_to_cm
