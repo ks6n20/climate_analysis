@@ -6,4 +6,5 @@ def inches_to_mm(inches):
 	return mm
 
 
-# feautre to metres 
+# TODO: Add function inches_to_m
+# TODO: Add function inches_to_cm
